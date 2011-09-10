@@ -1,3 +1,3 @@
 <?php
 
-echo "teste em casa";
+echo "teste em casa no Windows";
